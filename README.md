@@ -1,1 +1,1 @@
-# html-css-js-project-boilerplate
+Click to visit website: https://university-website-project.netlify.app/
